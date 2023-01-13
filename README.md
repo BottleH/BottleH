@@ -6,7 +6,7 @@
 
 <div align=center>
 
-[![BottleH's github stats](https://github-readme-stats.vercel.app/api?username=BottleH)](https://github.com/anuraghazra/github-readme-stats)
+[![BottleH's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BottleH)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100003897905415)](https://www.facebook.com/profile.php?id=100003897905415)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guys0217@gmail.com)](mailto:guys0217@gmail.com)
