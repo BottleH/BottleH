@@ -10,5 +10,6 @@
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100003897905415)](https://www.facebook.com/profile.php?id=100003897905415)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guys0217@gmail.com)](mailto:guys0217@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://https://bottleh.netlify.app/)](https://bottleh.netlify.app/)
 
 </div>
